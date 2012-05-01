@@ -15,8 +15,12 @@ It is a modified NanodeRF (three CT sensors,  RTC relay and GLCD temperature) sk
 Credentials
 ===========
 
-Authors: Trystan Lea and Glyn Hudson
+*Authors*: **Trystan Lea and Glyn Hudson**
+
 Adjusted for emonWeb: Frank Oxener
+
 Part of the: openenergymonitor.org project
+
 Licenced under GNU GPL V3
+
 See [http://openenergymonitor.org/emon/license](http://openenergymonitor.org/emon/license)
